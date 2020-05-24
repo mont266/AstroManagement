@@ -2851,7 +2851,7 @@ input, select, textarea {
 			.wrapper.style1.top:before {
 				background: #24242a;
 				content: '';
-				height: 19.5rem;
+				height: 15.5rem;
 				left: 0;
 				position: absolute;
 				top: 0;
@@ -3653,7 +3653,7 @@ input, select, textarea {
 /* Banner */
 
 	#header + #banner {
-		margin-top: -6rem;
+		margin-top: -20rem;
 	}
 
 	#banner.wrapper {
