@@ -2844,7 +2844,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background: #1f1f24;
+			background: #000000;
 			position: relative;
 		}
 
@@ -3847,7 +3847,7 @@ input, select, textarea {
 /* Main Wrapper */
 
 	#wrapper section:first-child.wrapper.style1:before {
-		background: #24242a;
+		background: #000000;
 		content: '';
 		height: 19.5rem;
 		left: 0;
@@ -3858,7 +3858,7 @@ input, select, textarea {
 	}
 
 	#wrapper section:last-child.wrapper.style1:before {
-		background: #24242a;
+		background: #000000;
 		bottom: 0;
 		content: '';
 		height: 15rem;
